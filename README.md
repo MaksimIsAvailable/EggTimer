@@ -10,6 +10,7 @@ This is a simple application with three buttons, a progress bar, a timer, and AV
 
 - Xcode
 - UIKit
+- Programmatic UI
 
 
 ![Simulator Screenshot - iPhone 14 Pro - 2024-05-30 at 00 28 24](https://github.com/MaksimIsAvailable/EggTimer/assets/162634880/f0268bb2-9c35-40c8-baec-c999c058c099)
